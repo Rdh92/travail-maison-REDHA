@@ -5,10 +5,6 @@ body{
     width: 0 auto;
 }
 
-.row{
-    /* display: flex; */
-    flex-direction: row;
-}
 
 .column{
     background-color: lightskyblue;
